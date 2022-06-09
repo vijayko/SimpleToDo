@@ -34,6 +34,8 @@ GIF created with [Kap](https://getkap.co/).
 
 Describe any challenges encountered while building the app.
 
+- I can follow the instructions shown in the video lectures but I still need to go over them again to fully understand why certain classes & methods were used to complete this app. 
+
 ## License
 
     Copyright [2022] [name of copyright owner]
